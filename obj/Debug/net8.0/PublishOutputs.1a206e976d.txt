@@ -1,0 +1,11 @@
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Rota-LivreWEB-API.exe
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Rota-LivreWEB-API.dll
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Rota-LivreWEB-API.deps.json
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Rota-LivreWEB-API.runtimeconfig.json
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Rota-LivreWEB-API.pdb
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samira\Documents\Tarefa2\easy-portifolio\Rota_LivreAPI\Rota-LivreWEB-API\Rota-LivreWEB-API\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
